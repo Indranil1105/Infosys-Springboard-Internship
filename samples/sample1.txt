@@ -1,0 +1,44 @@
+📌 Mini Research Brief Generator
+Enter your research topic: Indian Philosopy
+
+✅ JSON Output:
+{
+  "title": "Indian Philosophy",
+  "problem_statement": "Indian philosophy comprises a vast and diverse intellectual tradition, often oversimplified or misunderstood in global discourse. A comprehensive study is needed to delineate its major schools, their interconnections, and contemporary relevance.",
+  "key_questions": [
+    "What are the principal schools of Indian philosophy and their core doctrines?",
+    "How have these schools evolved and interacted historically?",
+    "What is the contemporary relevance and application of Indian philosophical thought?"
+  ],
+  "method_brief": [
+    "Conduct a comprehensive literature review of primary Sanskrit texts (in translation) and scholarly secondary sources.",
+    "Perform comparative analysis of key concepts across different philosophical schools (e.g., epistemology, metaphysics, ethics).",
+    "Trace the historical development and influence of major philosophical traditions."
+  ],
+  "deliverables": [
+    "Annotated bibliography of essential texts and scholarly articles.",
+    "Analytical essay on a specific school or comparative concept.",
+    "Presentation summarizing key findings and historical overview."
+  ]
+}
+
+📑 Markdown Preview:
+# Indian Philosophy
+
+**Problem Statement:** Indian philosophy comprises a vast and diverse intellectual tradition, often oversimplified or misunderstood in global discourse. A comprehensive study is needed to delineate its major schools, their interconnections, and contemporary relevance.
+
+### Key Questions
+- What are the principal schools of Indian philosophy and their core doctrines?
+- How have these schools evolved and interacted historically?
+- What is the contemporary relevance and application of Indian philosophical thought?
+
+### Method Brief
+- Conduct a comprehensive literature review of primary Sanskrit texts (in translation) and scholarly secondary sources.
+- Perform comparative analysis of key concepts across different philosophical schools (e.g., epistemology, metaphysics, ethics).
+- Trace the historical development and influence of major philosophical traditions.
+
+### Deliverables
+- Annotated bibliography of essential texts and scholarly articles.
+- Analytical essay on a specific school or comparative concept.
+- Presentation summarizing key findings and historical overview.
+PS C:\Users\Dell\Desktop\Infosys Springboard\research-brief-agent>
